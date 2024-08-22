@@ -27,7 +27,7 @@ To clone the project to your local machine and set it up:
 
 2. Navigate to the project directory:
    ```bash
-   cd university-events-management
+   cd UnivEvents
 
 3. Install the dependencies for both the frontend and backend:
    ```bash
