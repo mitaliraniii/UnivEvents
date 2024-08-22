@@ -75,6 +75,7 @@ This page allows users to sign in with their credentials.
 <img src="https://github.com/user-attachments/assets/c78ccc42-0c6f-4ccb-b179-23fec944618e" alt="Events Page" width="500" />
 
 <br/>
+<br/>
 
 <img src="https://github.com/user-attachments/assets/6f81d2f4-42d2-44c3-ae5d-1c017e7ce23f" alt="Events Page" width="500" />
 
