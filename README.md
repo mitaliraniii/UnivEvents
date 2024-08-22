@@ -23,7 +23,7 @@ To clone the project to your local machine and set it up:
 
 1. Open your terminal and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/kanishkagupta29/UnivEvents.git
+   git clone https://github.com/Nehagarg816/UnivEvents.git
 
 2. Navigate to the project directory:
    ```bash
