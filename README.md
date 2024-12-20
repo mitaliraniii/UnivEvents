@@ -94,4 +94,4 @@ Users can create a new event by filling out the necessary information in this fo
 
 [Click here to watch the final demo video](https://your-final-demo-video-link.com)
 
-This video provides a full demonstration of the website’s functionality, showing how users can create accounts, sign in, create new events, filter events, and more.
+This video provides a full demonstration of the website’s functionality, it shows how users can create accounts, sign in, create new events, filter events, and more.
